@@ -1,5 +1,5 @@
 
-# Week 5: Homework assignment: Choose your own adventure (with data)"
+# Week 5: Homework assignment: Choose your own adventure (with data)
 
 ## DSI-EDA
 ## Professor Cassy Dorff

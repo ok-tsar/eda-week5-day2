@@ -2,7 +2,7 @@
 
 Today:
 
-- Interpreting (+critiquing) graphics from last time:
+Interpreting (+critiquing) graphics from last time:
 * boxplots
 * violin plots
 * correlation
